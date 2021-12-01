@@ -1,0 +1,1 @@
+web: quicorn app:app
