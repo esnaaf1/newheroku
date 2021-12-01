@@ -14,7 +14,7 @@ cffi==1.14.6
 charset-normalizer==2.0.8
 click==8.0.3
 cryptography==35.0.0
-dataclasses==0.8
+dataclasses==0.6
 Flask==2.0.2
 flatbuffers==1.12
 frozenlist==1.2.0
